@@ -263,7 +263,7 @@ body {
 
 /*FOOTER*/
 .blue-footer {
-  margin-top: 5rem;
+  margin-top: 2rem;
   height: 4rem;
 }
 .bg-darkgray {
@@ -341,10 +341,8 @@ body {
   .np-bold {
     font-weight: 800;
   }
-  .hrcolor {
-    margin: auto;
-  }
-}
+  
+
 .bg-grey {
   background-color: #ecededff;
 }
@@ -354,6 +352,7 @@ body {
 }
 .ph-w {
   width: 100%;
+}
 }
 @media (min-width: 720px) and (orientation: landscape) {
   .nav-text {
